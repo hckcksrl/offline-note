@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
+import App from './Components/App/App';
 import {ApolloProvider} from "react-apollo"
 import "./globalStyles"
 import client from "./apollo"
