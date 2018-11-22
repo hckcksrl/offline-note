@@ -76,7 +76,7 @@ export const resolvers = {
                 fragment : NOTE_FRAGMENT,
                 data : updateNote
             })
-            return
+            return updateNote
         }
     }
 };
